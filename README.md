@@ -13,8 +13,9 @@ Este proyecto implementa un backend para un sistema de registro de usuarios, ini
 
 ## Acceso al Backend Público
 
-- URL del bakcend:
-- URL del Swagger:
+El backend esta levantado en railway y la base de datos en supabase
+
+- URL público del Swagger: https://desafio-tecnico-backend-production.up.railway.app/api#
 
 ## Instalación Local
 
