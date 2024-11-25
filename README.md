@@ -22,7 +22,7 @@ El backend esta levantado en railway y la base de datos en supabase
 1. **Clona este repositorio**:
 
    ```bash
-   git clone https://github.com/<tu-usuario>/desafio-tecnico-backend.git
+   git clone https://github.com/vndresito/desafio-tecnico-backend.git
    cd desafio-tecnico-backend
    ```
 
